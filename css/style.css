@@ -1,8 +1,10 @@
 
+
 h1{
     font-size: 20px;
     margin: auto;
 }
+
 .sfondo{
     background-image: url(../img/pattern.png);
     background-color:aqua;   
@@ -14,6 +16,7 @@ h1{
     width: 200px;
 
 }
+
 #booleaners{
     display: inline-block;
     color: aqua;
@@ -23,6 +26,7 @@ h1{
 .data{
     color: gray;
 }
+
 td
 {
 	
@@ -32,20 +36,26 @@ td
     padding-right: 100px;
     white-space: nowrap;
 }
-th{
+
+th
+{
     background-color: blue;
     color: aliceblue;
     text-align: left;
 }
+
 .primariga{
     background-color: aqua;
 }
+
 .plungo{
     white-space: wrap;
 }
+
 #linkutili{
     color: gray;
 }
+
 #fotofinale1{
     background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
@@ -58,7 +68,7 @@ th{
 }
 
 #fotofinale2{
-    background-image: url(../img/monitor.jpg);
+    background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
     color: #FFFFFF;
     background-size: contain;
