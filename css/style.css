@@ -1,0 +1,21 @@
+
+h1{
+    font-size: 20px;
+    margin: auto;
+}
+.sfondo{
+    background-image: url(../img/pattern.png);
+    background-color:aqua;
+    
+    height: auto;
+    background-size: contain;
+}
+
+#logo{
+    width: 200px;
+
+}
+#booleaners{
+    display: inline-block;
+    color: aqua;
+}
