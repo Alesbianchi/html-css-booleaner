@@ -1,4 +1,11 @@
+.contenitore{
+    width: 1000px;
+    margin: auto;
+}
 
+.tim{
+    display: flex;
+}
 
 h1{
     font-size: 20px;
@@ -6,20 +13,26 @@ h1{
 }
 
 .sfondo{
-    background-image: url(../img/pattern.png);
-    background-color:aqua;   
-    height: auto;
+    width: 100%;
     background-size: contain;
+    display: flex;
+    background-image: url(./img/pattern.png);
+    background-color: aqua;
+    
 }
 
 #logo{
     width: 200px;
+    margin: auto;
+    
+    
 
 }
 
 #booleaners{
     display: inline-block;
     color: aqua;
+    
     
 }
 
