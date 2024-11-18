@@ -5,8 +5,7 @@ h1{
 }
 .sfondo{
     background-image: url(../img/pattern.png);
-    background-color:aqua;
-    
+    background-color:aqua;   
     height: auto;
     background-size: contain;
 }
@@ -21,7 +20,9 @@ h1{
     
 }
 
-
+.data{
+    color: gray;
+}
 td
 {
 	
@@ -41,4 +42,27 @@ th{
 }
 .plungo{
     white-space: wrap;
+}
+#linkutili{
+    color: gray;
+}
+#fotofinale1{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background-size: contain;
+    text-align: left;
+    width: 240px;
+    height: 150px;
+    
+}
+
+#fotofinale2{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background-size: contain;
+    text-align: left;
+    width: 240px;
+    height: 150px;
 }
