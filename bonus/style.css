@@ -1,11 +1,15 @@
 .contenitore{
     width: 1000px;
     margin: auto;
+    text-align: left;
+    background-color: white;
 }
+.tim1{
+    width: 50%;
+    display: inline;
+  }
 
-.tim{
-    display: flex;
-}
+
 
 h1{
     font-size: 20px;
@@ -24,24 +28,19 @@ h1{
 #logo{
     width: 200px;
     margin: auto;
-    
-    
 
 }
 
 #booleaners{
     display: inline-block;
-    color: aqua;
-    
-    
+    color: aqua;  
 }
 
 .data{
     color: gray;
 }
 
-td{
-	
+td{	
     text-align: left;
     padding-top: 10px;
     padding-bottom: 10px;
